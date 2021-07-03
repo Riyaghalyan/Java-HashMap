@@ -12,7 +12,6 @@
 
 . remove(key): Remove the mapping for the value key if this map contains the mapping for the key
   
-  
- # SOLUTION
+
  
 
